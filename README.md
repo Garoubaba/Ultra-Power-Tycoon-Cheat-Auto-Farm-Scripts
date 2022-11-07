@@ -1,2 +1,25 @@
-# Ultra-Power-Tycoon-Cheat-Auto-Farm-Scripts
-Roblox MiniGame Ultra Power Tycoon Cheat AutoFarm AutoGathering Claim All Weapons and More
+###  Roblox Ultra Power Tycoon Cheat
+
+# WinRar Password: xov0113
+
+### How to use?
+
+- Run a cheat after extracting files, then open a game.
+
+- Open Roblox and Press F9.
+
+### Features:
+
+- WalkSpeed
+
+- AutoGathering
+
+- AutoBuying
+
+- JumpPower
+
+- Disable All Lasers
+
+- Claim all weapons
+
+- MORE!
